@@ -1,0 +1,29 @@
+Intuition
+This probrem reminds me to use ArrayList when I had seen the inserting in the question. But I don't know is it okey to use ArrayList instead of Array because in question it says return as array. But I did ArrayList to Array for return statement.
+
+Approach
+Step 1: Creating target array and li ArrayList
+Step 2: Creating a loop - index.length times.
+Step 3: Inserting elements of nums in order of index array values
+Step 4: inserting elements of li ArrayList in target array
+Step 5: Returning target.
+
+Complexity
+Time complexity:O(n)
+Space complexity:O(n)
+O(n)
+
+Code
+class Solution {
+    public int[] createTargetArray(int[] nums, int[] index) {
+        int[] target = new int[index.length];
+        ArrayList<Integer> li = new ArrayList<Integer>();
+        for(int i=0;i<index.length;i++){
+            li.add(index[i], nums[i]);
+        }
+        for(int i=0;i<li.size();i++){
+            target[i] = li.get(i);
+        }
+        return target;
+    }
+}
