@@ -1,0 +1,31 @@
+Leetcode Problem - 1342
+Question - Number of Steps to Reduce a Number to Zero
+
+Java
+Approach
+Step1: Create count variable to count no.of steps to become zero.
+Step2: Iterate num until it becomes 0
+Step3: if it is even divide num with 2 else subtract it with 1.
+Step4: Return count;
+Note: Don't forget to increament count in if and else statements..
+
+Complexity
+Time complexity: O(n)
+Space complexity: O(n)
+Code
+class Solution {
+    public int numberOfSteps(int num) {
+        int count = 0;
+        while(num!=0){
+            if(num%2==0){
+                num = num/2;
+                count++;
+            }
+            else{
+                num--;
+                count++;
+            }
+        }
+        return count;
+    }
+}
