@@ -1,3 +1,6 @@
+Leetcode Problem - 1389
+Question -  Create Target Array in the Given Order
+
 Intuition
 This probrem reminds me to use ArrayList when I had seen the inserting in the question. But I don't know is it okey to use ArrayList instead of Array because in question it says return as array. But I did ArrayList to Array for return statement.
 
