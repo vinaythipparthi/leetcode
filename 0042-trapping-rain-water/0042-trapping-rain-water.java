@@ -1,25 +1,22 @@
 class Solution {
     public int trap(int[] arr) {
         int n = arr.length;
-        
-        int[] leftMax = new int[n];
-        leftMax[0] = arr[0];
-        for(int i=1;i<n;i++){
-            leftMax[i] = Math.max(leftMax[i-1],arr[i]);
-        }
-
-        int[] rightMax = new int[n];
-        rightMax[n-1] = arr[n-1];
-        for(int i=n-2;i>=0;i--){
-            rightMax[i] = Math.max(rightMax[i+1],arr[i]);
-        }
-
+        int i = 0;
+        int j = n-1;
+        int leftMax = 0;
+        int rightMax = 0;
         int waterUnits = 0;
-        for(int i=0;i<n;i++){
-            int currVal = arr[i];
-
-            int units = Math.min(leftMax[i],rightMax[i])-currVal;
-            waterUnits += units<0 ? 0:units;
+        while(i<j){
+            leftMax = Math.max(leftMax, arr[i]);
+            rightMax = Math.max(rightMax, arr[j]);
+            int minLevel = Math.min(leftMax, rightMax);
+            if(leftMax <= rightMax){
+                waterUnits += minLevel-arr[i];
+                i++;
+            }else{
+                waterUnits += minLevel-arr[j];
+                j--;
+            }
         }
         return waterUnits;
     }
