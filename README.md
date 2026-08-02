@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vinaythipparthi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaythipparthi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/vinaythipparthi/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaythipparthi/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinaythipparthi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaythipparthi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinaythipparthi/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vinaythipparthi/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vinaythipparthi/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vinaythipparthi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -98,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
