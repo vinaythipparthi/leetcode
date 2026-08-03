@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vinaythipparthi/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vinaythipparthi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/vinaythipparthi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaythipparthi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaythipparthi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/vinaythipparthi/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaythipparthi/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinaythipparthi/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/vinaythipparthi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vinaythipparthi/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinaythipparthi/leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
