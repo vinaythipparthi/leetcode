@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaythipparthi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0733-flood-fill](https://github.com/vinaythipparthi/leetcode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/vinaythipparthi/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/vinaythipparthi/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -113,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/vinaythipparthi/leetcode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/vinaythipparthi/leetcode/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/vinaythipparthi/leetcode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
