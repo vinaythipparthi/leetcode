@@ -22,15 +22,9 @@ class Solution {
         q.offer(root);
         while(!q.isEmpty()){
             int size = q.size();
-            //
-            Queue<TreeNode> dup = new ArrayDeque<>(q);
-            while(!dup.isEmpty()){
-                TreeNode nn = dup.poll();
-                if(dup.size() == 0) li.add(nn.val);
-            }
-            //
             while(size != 0){
                 TreeNode nn = q.poll();
+                if(size == 1)   li.add(nn.val);
                 size--;
                 if(nn.left != null) q.offer(nn.left);
                 if(nn.right != null) q.offer(nn.right);
