@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vinaythipparthi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vinaythipparthi/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vinaythipparthi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/vinaythipparthi/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaythipparthi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vinaythipparthi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/vinaythipparthi/leetcode/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
 ## Stack
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinaythipparthi/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vinaythipparthi/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vinaythipparthi/leetcode/tree/master/0860-lemonade-change) |
 ## Heap (Priority Queue)
