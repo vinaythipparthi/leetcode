@@ -1,11 +1,22 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int n = nums.length;
-        int maxInd = 0;
-        for(int i=0;i<n;i++){
-            if(i > maxInd)  return false;
-            maxInd = Math.max(maxInd, i+nums[i]);
+        //Recursion + dp
+        Boolean[] dp = new Boolean[nums.length];
+        return solve(0, nums.length, nums, dp);
+    }
+    public boolean solve(int idx, int n, int[] nums, Boolean[] dp){
+        if(idx >= n-1){
+            return true;
         }
-        return true;
+
+        if(dp[idx] != null){
+            return dp[idx];
+        }
+        for(int i=1;i<=nums[idx];i++){
+            if(solve(idx+i, n, nums, dp)){
+                return dp[idx] = true;
+            }
+        }
+        return dp[idx] = false;
     }
 }
