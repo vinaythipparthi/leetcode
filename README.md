@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/vinaythipparthi/leetcode/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/vinaythipparthi/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Graph Theory
 |  |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinaythipparthi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vinaythipparthi/leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
