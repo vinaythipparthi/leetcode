@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vinaythipparthi/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vinaythipparthi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/vinaythipparthi/leetcode/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/vinaythipparthi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vinaythipparthi/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinaythipparthi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vinaythipparthi/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinaythipparthi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/vinaythipparthi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaythipparthi/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/vinaythipparthi/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vinaythipparthi/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vinaythipparthi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
