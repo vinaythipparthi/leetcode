@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vinaythipparthi/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0733-flood-fill](https://github.com/vinaythipparthi/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/vinaythipparthi/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vinaythipparthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vinaythipparthi/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vinaythipparthi/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vinaythipparthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vinaythipparthi/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vinaythipparthi/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vinaythipparthi/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
