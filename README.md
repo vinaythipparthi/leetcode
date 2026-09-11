@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vinaythipparthi/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/vinaythipparthi/leetcode/tree/master/0994-rotting-oranges) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinaythipparthi/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/vinaythipparthi/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaythipparthi/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/vinaythipparthi/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinaythipparthi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/vinaythipparthi/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinaythipparthi/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
