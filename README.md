@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaythipparthi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/vinaythipparthi/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/vinaythipparthi/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0813-largest-sum-of-averages](https://github.com/vinaythipparthi/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0860-lemonade-change](https://github.com/vinaythipparthi/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vinaythipparthi/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vinaythipparthi/leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vinaythipparthi/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0813-largest-sum-of-averages](https://github.com/vinaythipparthi/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0877-stone-game](https://github.com/vinaythipparthi/leetcode/tree/master/0877-stone-game) |
 | [0935-knight-dialer](https://github.com/vinaythipparthi/leetcode/tree/master/0935-knight-dialer) |
 ## Stack
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0813-largest-sum-of-averages](https://github.com/vinaythipparthi/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [3903-smallest-stable-index-i](https://github.com/vinaythipparthi/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vinaythipparthi/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
