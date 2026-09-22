@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vinaythipparthi/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/vinaythipparthi/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/vinaythipparthi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinaythipparthi/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vinaythipparthi/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/vinaythipparthi/leetcode/tree/master/0120-triangle) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vinaythipparthi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinaythipparthi/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vinaythipparthi/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vinaythipparthi/leetcode/tree/master/0064-minimum-path-sum) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinaythipparthi/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinaythipparthi/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vinaythipparthi/leetcode/tree/master/0860-lemonade-change) |
