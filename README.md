@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinaythipparthi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/vinaythipparthi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0567-permutation-in-string](https://github.com/vinaythipparthi/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/vinaythipparthi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaythipparthi/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/vinaythipparthi/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinaythipparthi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/vinaythipparthi/leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/vinaythipparthi/leetcode/tree/master/0567-permutation-in-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vinaythipparthi/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinaythipparthi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vinaythipparthi/leetcode/tree/master/0014-longest-common-prefix) |
+| [0567-permutation-in-string](https://github.com/vinaythipparthi/leetcode/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinaythipparthi/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/vinaythipparthi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vinaythipparthi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinaythipparthi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vinaythipparthi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/vinaythipparthi/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/vinaythipparthi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinaythipparthi/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
