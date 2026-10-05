@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vinaythipparthi/leetcode/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/vinaythipparthi/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
@@ -378,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinaythipparthi/leetcode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vinaythipparthi/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/vinaythipparthi/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
